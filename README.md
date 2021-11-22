@@ -5,7 +5,7 @@ This repository contains Machine Learning and Data Science projects created usin
 
 ## Projects
 
-There are three projects included, which made with all the tools that were used in the exercises:
+There are three projects included :
 
 * [Heart Disease Classification]()
     * Made With: Jupyter Notebook
